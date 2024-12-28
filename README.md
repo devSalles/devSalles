@@ -1,6 +1,5 @@
- - Olá, sou @devSalles
- - Estou interessado em aprender
- - Atualmente estou fazendo um curso de desenvolvimento de sistemas no SENAI e estou em busco do meu 1° emprego
- - Estou procurando colaborar no trabalho em equipe
- - Como entrar em contato comigo: número de telefone +55 31996810760, e-mail: sallesbernardo89@gamil.com
- - Curiosidade: Sou uma pessoa que gosta de estar em constante aprendizado
+ - Olá, sou @devSalles mwu nome e Bernardo
+ - Sou curioso e gosto de aprender
+ - Atualmente estou fazendo um curso de desenvolvimento de sistemas no SENAI em Belo Horizonte e estou em busco do meu 1° emprego como programador e na carreira profissional
+ - Moro em Belo Horizonte 
+ - Como entrar em contato comigo: número de telefone +55 31996810760, e-mail: sallesbernardo89@gmail.com
