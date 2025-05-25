@@ -15,7 +15,7 @@
 </div>
 
 <div><br>
-  <a href="mailto:contato@rafaballerini.tech" target="_blank">
+  <a href="mailto:sallesbernardo89@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="www.linkedin.com/in/bernardo-salles-b9a903252" target="_blank">
