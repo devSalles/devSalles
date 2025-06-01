@@ -8,7 +8,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSalles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSalles&layout=compact&langs_count=16&theme=dark"/>
 </div>
-<!-- Adicione um espaço aqui-->
+<br>
 <div style="display: inline_block">
   <img align="center" alt="Salles-Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Salles-Csharp" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -19,9 +19,7 @@
   <img align="center" alt="Salles-Postman" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="Salles-Swagger" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
 </div>
-
-
-
+    
 <div><br>
   <!-- Gmail -->
   <a href="mailto:sallesbernardo89@gmail.com" target="_blank">
