@@ -10,7 +10,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSalles&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <br>
-
+  <div style="display: inline_block">
   <img align="center" alt="Salles-Java" height="52" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Salles-Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Salles-MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="Salles-Postman" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
   <img align="center" alt="Salles-Swagger" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
   <img align="center" alt="Salles-Spring" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-
+  </div>
 
     
 <div><br>
