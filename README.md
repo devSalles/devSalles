@@ -1,5 +1,5 @@
 ## Olá! eu sou o Bernardo
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje estudo back-end
 - 🌱 Atualmente estudando Java e C#
 - 📫 Contate por email: sallesbernardo89@gmail.com
 - 💼 Conecte-se comigo no LinkedIn para acompanhar meus projetos: www.linkedin.com/in/bernardo-salles-b9a903252
