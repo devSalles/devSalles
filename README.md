@@ -5,9 +5,10 @@
 - 💼 Conecte-se comigo no LinkedIn para acompanhar meus projetos: www.linkedin.com/in/bernardo-salles-b9a903252
 <br>
 <div>
-  <a href="https://beacons.ai/devSalles">
+  <a href="https://github.com/devSalles">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSalles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSalles&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSalles&layout=compact&langs_count=8&theme=dark"/>
+  </a>
 </div>
 <br>
   🤖 Linguagens e Tecnologias
