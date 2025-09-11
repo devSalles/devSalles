@@ -1,6 +1,9 @@
 ## Olá! eu sou o Bernardo
-- 🔭 Hoje estudo back-end
+- 🔭 Estudo focado em back-end 
 - 🌱 Atualmente estudando Java e C#
+- 💻 Tenho interesse em atuar na área de tecnologia, aplicando meus conhecimentos em programação. 
+- 🚀 Estou em busca da minha primeira oportunidade de trabalho para crescer profissionalmente, aprender com a prática e contribuir com soluções inovadoras.  
+- 📚 Atualmente continuo estudando e desenvolvendo projetos pessoais para aprimorar minhas habilidades.  
 - 📫 Contate por email: sallesbernardo89@gmail.com
 - 💼 Conecte-se comigo no LinkedIn para acompanhar meus projetos: www.linkedin.com/in/bernardo-salles-b9a903252
 <br>
