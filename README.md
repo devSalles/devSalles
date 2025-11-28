@@ -1,7 +1,7 @@
 ## Olá! eu sou o Bernardo
 - 🔭 Estudo focado em back-end 
-- 🌱 Atualmente estudando Java e C#
-- 💻 Tenho interesse em atuar na área de tecnologia, aplicando meus conhecimentos em programação. 
+- 🌱 Atualmente estudando Spring Boot
+- 💻 Tenho interesse em atuar na área de tecnologia. 
 - 🚀 Estou em busca da minha primeira oportunidade de trabalho para crescer profissionalmente, aprender com a prática e contribuir com soluções inovadoras.  
 - 📚 Atualmente continuo estudando e desenvolvendo projetos pessoais para aprimorar minhas habilidades.  
 - 📫 Contate por email: sallesbernardo89@gmail.com
