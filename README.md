@@ -7,13 +7,6 @@
 - 📫 Contate por email: sallesbernardo89@gmail.com
 - 💼 Conecte-se comigo no LinkedIn para acompanhar meus projetos: www.linkedin.com/in/bernardo-salles-b9a903252
 <br>
-<div>
-  <a href="https://beacons.ai/devSalles">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSalles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSalles&layout=compact&langs_count=16&theme=dark"/>
-</div>
-<br>
-  
   💻 Linguagens:
   <div style="display: inline_block">
   <img align="center" alt="Salles-Java" height="52" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
