@@ -8,12 +8,17 @@
 - 💼 Conecte-se comigo no LinkedIn para acompanhar meus projetos: www.linkedin.com/in/bernardo-salles-b9a903252
 <br>
 
-<div>
+<div align="center">
   <a href="https://beacons.ai/devSalles">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSalles&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSalles&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=devSalles&theme=github_dark"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devSalles&theme=github_dark"/>
+  </a>
 </div>
 <br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=devSalles&theme=dark"/>
+</div>
 
   💻 Linguagens:
   <div style="display: inline_block">
