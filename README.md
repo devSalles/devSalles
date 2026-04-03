@@ -2,18 +2,62 @@
 
 💻 **Desenvolvedor Back-end em formação**
 
-- 🔭 Foco atual: desenvolvimento **Back-end**
-- 🌱 Estudando: **Spring Boot**
-- 🚀 Em busca da minha **primeira oportunidade na área de tecnologia**
-- 📚 Desenvolvendo projetos pessoais para consolidar conhecimentos
-- 💡 Interesse em criar soluções eficientes e escaláveis
+Sou estudante de Desenvolvimento de Sistemas com foco em **Back-end**, apaixonado por tecnologia e construção de soluções eficientes.  
+Atualmente, estou aprofundando meus conhecimentos em **Java e Spring Boot**, com foco em boa lógica, APIs REST, boas práticas e arquitetura de sistemas.
 
 ---
 
-## 📫 Contato
+## 🚀 Objetivo
 
-- 📧 Email: sallesbernardo89@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/bernardo-salles-b9a903252  
+Busco minha **primeira oportunidade como desenvolvedor**, onde eu possa:
+- Aplicar meus conhecimentos na prática  
+- Aprender com profissionais experientes  
+- Contribuir no desenvolvimento de soluções reais  
+
+---
+
+## 🧠 Conhecimentos Técnicos
+
+- 🔹 Programação Orientada a Objetos (POO)  
+- 🔹 Desenvolvimento de APIs REST  
+- 🔹 Integração com banco de dados  
+- 🔹 Versionamento com Git  
+- 🔹 Arquitetura em camadas  
+- 🔹 Uso de DTOs e boas práticas  
+
+---
+
+## 📚 Atualmente estudando
+
+- 🌱 Spring Boot (APIs REST, JPA, segurança)  
+- 🌱 Boas práticas de desenvolvimento Back-end  
+- 🌱 Entendimento das estruturas 
+
+---
+
+## 📌 Projetos em Destaque
+
+🔹 **NewStack (TCC)**  
+- Plataforma moderna voltada para desenvolvimento de aplicações escaláveis  
+- Foco em **alta performance, automação e escalabilidade**  
+- Conceitos aplicados: **cloud computing, CI/CD, arquitetura moderna e DevOps**  
+- Integração com práticas modernas de desenvolvimento   
+- Projeto com visão de solução real para ambientes de produção  
+
+🔹 **Desafio Magalu**  
+- Desafio técnico de vaga  
+- teste unitários
+- persistência de dados
+
+🔹 **Administração de Condomínio**  
+- Sistema para gestão de moradores, unidades e controle administrativo  
+- Funcionalidades de cadastro, organização e gerenciamento de dados  
+- Aplicação estruturada com foco em boas práticas e organização em camadas  
+
+🔹 **Gestão Veicular**  
+- Sistema para controle de veículos, status e operações relacionadas  
+- Implementação de regras de negócio para gerenciamento de disponibilidade e uso  
+- Foco em modelagem de entidades e lógica de domínio aplicada  
 
 ---
 
@@ -53,6 +97,13 @@
   <img align="center" alt="Salles-Spring" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Salles-MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+---
+
+## 📫 Contato
+
+- 📧 Email: sallesbernardo89@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/bernardo-salles-b9a903252  
 
 ---
 
