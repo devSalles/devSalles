@@ -78,25 +78,25 @@ Busco minha **primeira oportunidade como desenvolvedor**, onde eu possa:
 
 ## 💻 Linguagens
 
-<div style="display: inline_block">
-  <img align="center" alt="Salles-Java" height="52" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Salles-Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
+<table border="0" cellspacing="0" cellpadding="0"><tr>
+  <td><img alt="Salles-Java" height="52" width="62" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
+  <td><img alt="Salles-Csharp" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>
+</tr></table>
 
 ---
 
 ## ⚙️ Tecnologias & Ferramentas
 
-<div style="display: inline_block">
-  <img align="center" alt="Salles-IntelliJ" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="Salles-VSCode" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Salles-VisualStudio" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Salles-Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Salles-Postman" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
-  <img align="center" alt="Salles-Swagger" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
-  <img align="center" alt="Salles-Spring" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Salles-MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+<table border="0" cellspacing="0" cellpadding="0"><tr>
+  <td><img alt="Salles-IntelliJ" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"></td>
+  <td><img alt="Salles-VSCode" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></td>
+  <td><img alt="Salles-VisualStudio" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></td>
+  <td><img alt="Salles-Git" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
+  <td><img alt="Salles-Postman" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"></td>
+  <td><img alt="Salles-Swagger" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg"></td>
+  <td><img alt="Salles-Spring" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></td>
+  <td><img alt="Salles-MySQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
+</tr></table>
 
 ---
 
